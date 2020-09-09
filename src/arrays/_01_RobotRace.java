@@ -97,6 +97,7 @@ for (int i = 0; i < randomize.length; i++) {
 			order[rio]= order[ritz];
 			order[ritz] = temp;
 			
+			
 		}
 		
 		
