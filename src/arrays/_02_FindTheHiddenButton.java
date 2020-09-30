@@ -40,7 +40,7 @@ public class _02_FindTheHiddenButton implements ActionListener{
 	
 		//5. Make a for loop to iterate through the JButton array
 		 for (int i = 0; i < jba.length; i++) {
-			jba[]
+			jba[hoi];m
 		}
 			//6. initialize each JButton in the array
 	
