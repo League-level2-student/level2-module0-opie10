@@ -41,7 +41,7 @@ for (int i = 0; i < randomize.length; i++) {
 		while (rip) {
 			for (int i = 0; i < garhy.length; i++) {
 				int y = garhy[i].getY();
-				garhy[i].setSpeed(10);
+				garhy[i].setSpeed(100);
 				if (y <= 30) {
 					rip = false;
 
